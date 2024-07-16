@@ -8,4 +8,4 @@ This repository includes 2 file: DataBank1 and Adhoc Analysis
 - What is the average total historical deposit counts and amounts for all customers?
 - For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 - What is the closing balance for each customer at the end of the month?
-## Data Bank 2: Answer questions base on Bank Data
+## ADhoc Analysis: Answer questions base on Bank Data
