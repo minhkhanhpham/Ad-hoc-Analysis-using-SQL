@@ -1,5 +1,5 @@
 # Ad-hoc-Analysis-using-SQL
-This repository includes 2 file: DataBank1 and DataBank2
+This repository includes 2 file: DataBank1 and Adhoc Analysis
 ## Data Bank 1: Answer questions base on Bank Data
 - How many unique nodes are there on the Data Bank system?
 - What is the number of nodes per region?
